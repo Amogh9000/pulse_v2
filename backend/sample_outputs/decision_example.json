@@ -1,0 +1,51 @@
+{
+    "risk_level": "High",
+    "actions": {
+        "staffing": [
+            {
+                "role": "nurse",
+                "change": "+3",
+                "shift": "day",
+                "reason": "High AQI (250) expected to increase respiratory admissions by 25%"
+            },
+            {
+                "role": "doctor",
+                "change": "+1",
+                "shift": "day",
+                "reason": "Additional coverage needed for anticipated surge in respiratory cases"
+            }
+        ],
+        "supplies": [
+            {
+                "item": "oxygen_cylinder",
+                "qty": 50,
+                "reason": "High demand expected for respiratory support with AQI at severe levels"
+            },
+            {
+                "item": "nebulizer",
+                "qty": 10,
+                "reason": "Increased asthma and COPD cases likely with poor air quality"
+            }
+        ],
+        "beds": [
+            {
+                "action": "prepare_overflow",
+                "expected_date": "2025-12-13",
+                "reason": "Anticipate 25-30% surge in admissions based on forecast"
+            }
+        ]
+    },
+    "advisory": "Poor air quality alert. Avoid outdoor activities. Seek medical help if experiencing breathing difficulties.",
+    "reasoning_trace": [
+        "Analyzed current AQI: 250 (High risk category)",
+        "Evaluated bed occupancy: 82% (Moderate-High utilization)",
+        "Assessed forecast: +25% surge predicted, peak on 2025-12-13",
+        "Applied risk scoring: AQI=High, Occupancy=Moderate, Surge=High",
+        "Determined composite risk level: High",
+        "Generated staffing recommendations: +3 nurses, +1 doctor for day shift",
+        "Calculated supply needs: 50 oxygen cylinders, 10 nebulizers",
+        "Recommended bed management: Prepare overflow capacity",
+        "Formulated patient advisory for public communication"
+    ],
+    "confidence": 0.85
+}
