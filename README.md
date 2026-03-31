@@ -98,7 +98,7 @@ npm run dev
 ## Project Structure
 
 ```bash
-mumbai_v2/
+pulse_v2/
 ├── backend/                 # Python FastAPI Server
 │   ├── app/
 │   │   ├── agents/         # AI Logic (Data, Forecast, Decision)
