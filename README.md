@@ -128,6 +128,24 @@ pulse_v2/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Collaborators
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/amoggh">
+        <img src="https://github.com/amoggh.png" width="100px;" alt="Amoggh Bharadwaj"/>
+        <br />
+        <sub><b>Amoggh Bharadwaj</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Saip2231">
+        <img src="https://github.com/Saip2231.png" width="100px;" alt="Sai Prashanth"/>
+        <br />
+        <sub><b>Sai Prashanth</b></sub>
+      </a>
+    </td>
+    
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
