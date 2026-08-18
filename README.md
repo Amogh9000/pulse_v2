@@ -127,6 +127,15 @@ pulse_v2/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+    
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+**Built for Healthcare • Powered by Groq**
+
+---
 
 ## Collaborators
 <table>
@@ -146,10 +155,3 @@ pulse_v2/
       </a>
     </td>
     
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-**Built for Healthcare • Powered by Groq**
